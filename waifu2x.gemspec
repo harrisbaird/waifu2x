@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'waifu2x/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "waifu2x"
+  spec.name          = "waifu2x-harrisbaird"
   spec.version       = Waifu2x::VERSION
   spec.authors       = ["Nihad Abbasov"]
   spec.email         = ["mail@narkoz.me"]
